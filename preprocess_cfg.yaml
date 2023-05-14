@@ -1,0 +1,6 @@
+data_path: '../dataset'
+save_path: '../dataset/preprocessed_data'
+fault_detected_sensor_list: [378, 381, 382, 386, 387, 389, 420, 591, 592, 593, 1113, 2489, 2497]
+
+cutoff_train: '2022-04-01'
+cutoff_test: '2022-06-01'
